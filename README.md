@@ -1,4 +1,4 @@
-# Graph-Theory-LTDT-
+# LTDT(2411COMP170102)
 Niên khóa: 2024-2025
 
 --Giảng viên:
