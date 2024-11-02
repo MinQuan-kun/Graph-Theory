@@ -1,10 +1,16 @@
 # Graph-Theory-LTDT-
 Niên khóa: 2024-2025
+
 --Giảng viên:
 Lý thuyết GV: Nguyễn Viết Hưng
+
 Thực hành GV: Nguyễn Phương Nam
+
+
 Nội dung môn học
-Chương 1. CÁC KHÁI NIỆM CƠ BẢN CỦA LÝ THUYẾT ĐỒ THỊ
+
+
+     Chương 1. CÁC KHÁI NIỆM CƠ BẢN CỦA LÝ THUYẾT ĐỒ THỊ
 
 1.1. Định nghĩa đồ thị
 
